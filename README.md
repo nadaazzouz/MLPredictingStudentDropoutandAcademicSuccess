@@ -8,6 +8,8 @@
 
 This project implements a complete Machine Learning pipeline to predict whether a university student will drop out, remain enrolled, or graduate as early as the end of the first semester, allowing the university to intervene before it is too late.
 
+## Project Streamlit app
+https://mlpredictingstudentdropoutandacademicsuccess-deagtnwxabmgahsgk.streamlit.app/
 
 ## Dataset
 
