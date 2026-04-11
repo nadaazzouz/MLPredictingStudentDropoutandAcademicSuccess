@@ -91,11 +91,11 @@ The dataset is automatically downloaded via ucimlrepo when the notebooks start. 
 
 | Model | Accuracy | Weighted F1 | AUC-ROC |
 |---|---|---|---|
-| Logistic Regression (baseline) | ~79% | ~78% | ~88% |
-| Decision Tree | ~76% | ~75% | ~83% |
-| Random Forest | ~86% | ~85% | ~94% |
-| XGBoost (base) | ~87% | ~87% | ~95% |
-| **XGBoost (optimisé)** | **~88%** | **~88%** | **~96%** |
+| Logistic Regression (baseline) | ~73% | ~74% | ~89% |
+| Decision Tree | ~66% | ~68% | ~84% |
+| Random Forest | ~74% | ~74% | ~90% |
+| XGBoost (base) | ~75% | ~74% | ~89% |
+| **XGBoost (optimised)** | **~75%** | **~75%** | **~89%** |
 
 ### Top 5 Dropout Factors using SHAP
 1. **Second semester grade** strongest predictive signal
